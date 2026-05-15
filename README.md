@@ -1,17 +1,157 @@
-# React + Vite
+# Shlok Baranwal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive developer portfolio website built using React, Tailwind CSS and Framer Motion. The portfolio showcases projects, skills, animations and a premium UI design with smooth scrolling and mobile responsiveness.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Features
 
-## React Compiler
+* Modern UI/UX design
+* Fully responsive layout
+* Animated hero section
+* Interactive navbar with active section highlight
+* About section with skills showcase
+* Projects/work section
+* Contact section with modern form UI
+* Smooth scrolling navigation
+* Framer Motion animations
+* Tailwind CSS styling
+* Mobile bottom navigation
+* Cursor glow effect
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Portfolio-React" 
+## Frontend
+
+* React.js
+* Tailwind CSS
+* Framer Motion
+* JavaScript
+* Vite
+
+---
+
+# Folder Structure
+
+```bash
+src/
+ ├── assets/
+ ├── components/
+ │    ├── Navbar.jsx
+ │    ├── Hero.jsx
+ │    ├── About.jsx
+ │    ├── Work.jsx
+ │    ├── Contact.jsx
+ │    └── CursorGlow.jsx
+ │
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
+```
+
+---
+
+# Installation
+
+Clone the repository:
+
+```bash
+git clone <your-repository-link>
+```
+
+Navigate into the project folder:
+
+```bash
+cd Portfolio-react
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+# Build For Production
+
+```bash
+npm run build
+```
+
+---
+
+# Deployment
+
+You can deploy this portfolio using:
+
+* Vercel
+* Netlify
+* GitHub Pages
+
+Recommended:
+
+* [https://vercel.com](https://vercel.com)
+
+---
+
+# Sections Included
+
+## Hero Section
+
+* Animated introduction
+* Developer title
+* CTA button
+* Responsive image layout
+
+## About Section
+
+* Developer introduction
+* Skills showcase
+* Animated cards
+
+## Work Section
+
+* Featured projects
+* Interactive project cards
+* Hover animations
+
+## Contact Section
+
+* Email integration
+* Social links
+* Responsive contact form
+
+---
+
+# Future Improvements
+
+* Add backend contact form integration
+* Add dark/light mode
+* Add project live previews
+* Add resume download feature
+* Add SEO optimization
+* Add loading screen animation
+* Add particle background
+
+---
+
+# Author
+
+Shlok Baranwal
+
+Aspiring Full Stack Developer
+
+---
+
+# License
+
+This project is open source and available for personal and educational use.
