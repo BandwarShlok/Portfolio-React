@@ -69,21 +69,21 @@ function Contact() {
 
               <div className="flex flex-wrap gap-4">
                 <a
-                  href="#"
+                  href="https://github.com/BandwarShlok"
                   className="px-5 py-3 rounded-xl border border-purple-500/20 hover:bg-purple-500/10 transition text-zinc-300"
                 >
                   GitHub
                 </a>
 
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/shlokbaranwal"
                   className="px-5 py-3 rounded-xl border border-purple-500/20 hover:bg-purple-500/10 transition text-zinc-300"
                 >
                   LinkedIn
                 </a>
 
                 <a
-                  href="#"
+                  href="https://www.instagram.com/bandwarshlok"
                   className="px-5 py-3 rounded-xl border border-purple-500/20 hover:bg-purple-500/10 transition text-zinc-300"
                 >
                   Instagram

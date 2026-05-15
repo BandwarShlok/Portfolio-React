@@ -18,28 +18,28 @@ function Hero() {
 
         <div className="flex flex-col gap-5 py-5">
           <a
-            href="#"
+            href="https://github.com/BandwarShlok"
             className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-sm text-white hover:border-purple-500 hover:text-purple-400 transition"
           >
             G
           </a>
 
           <a
-            href="#"
+            href="https://www.linkedin.com/in/shlokbaranwal"
             className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-sm text-white hover:border-purple-500 hover:text-purple-400 transition"
           >
             in
           </a>
 
           <a
-            href="#"
+            href="https://x.com/bandwar49584"
             className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-sm text-white hover:border-purple-500 hover:text-purple-400 transition"
           >
             X
           </a>
 
           <a
-            href="#"
+            href="mailto:bandwarshlok@gmail.com"
             className="w-10 h-10 rounded-full border border-white/10 flex items-center justify-center text-sm text-white hover:border-purple-500 hover:text-purple-400 transition"
           >
             @
