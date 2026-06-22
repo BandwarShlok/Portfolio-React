@@ -83,7 +83,7 @@ function Contact() {
                 </a>
 
                 <a
-                  href="https://www.instagram.com/bandwarshlok"
+                  href="https://www.instagram.com/code_with_shlok"
                   className="px-5 py-3 rounded-xl border border-purple-500/20 hover:bg-purple-500/10 transition text-zinc-300"
                 >
                   Instagram
